@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Grimhaven
+draft: false
+tags:
 ---
-Test1..2
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hey, Fremder!
+
+Wie hat es dich nach [[Lowharbour]] verschlagen?
+
