@@ -1,5 +1,5 @@
 ---
-title: template
+title: The Broken Mast
 draft: false
 tags:
 ---
