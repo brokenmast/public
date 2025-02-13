@@ -10,3 +10,9 @@ Halt den Kopf unten, zahl define Schulden, und frag nicht nach den Dingen, die n
 Wenn du klug bist, bleibst du nicht lange.
 
 — **Blake Redgrave**, Besitzerin des [[The Broken Mast]]
+
+
+## Lost Links
+```dataview
+list from [[]] and !outgoing([[]])
+```
