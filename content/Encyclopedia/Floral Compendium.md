@@ -1,6 +1,6 @@
 ---
 title: Floral Compendium
-draft: false
+draft: true
 tags:
   - encyclopedia
 ---
