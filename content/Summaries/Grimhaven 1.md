@@ -1,5 +1,5 @@
 ---
-title: Grimhaven 1
+title: "Grimhaven #1"
 draft: false
 tags:
   - summaries
@@ -9,7 +9,6 @@ Nach ihrer Rückkehr nach Grimhaven sammeln sich die Spieler im *Broken Mast*.
 Dort erfahren sie, dass Blake erhebliche Schulden beim Hafendirektor hat. Entschlossen, ihr zu helfen, nehmen sie sich vor, ausstehendes Geld von zwei Schuldnern einzutreiben.
 
 Ihr erster Weg führt sie zu Willie Baldock, einem notorischen Spieler. Mit geschickten Worten und hartnäckiger Überzeugungsarbeit gelingt es ihnen, ihn dazu zu bringen, seine Spielsucht zu überwinden und seine Schulden zu begleichen.
-
 Nach einem kurzen Abstecher in *Kalandras Kräuter Klause*, wo Zhi sich eine Kostprobe lokaler Kräuter nicht entgehen lässt – mit unmittelbaren, teils unerwarteten Nebenwirkungen –, machen sie sich auf den Weg in die Unterstadt. Ihr Ziel: *Greywater Row*, das berüchtigte Viertel, in dem Gesetz und Moral wenig gelten. Dort hoffen sie, Cornelius Faulkner zu finden, den zweiten Schuldner Blakes.
 
 In einer düsteren Spelunke namens *The Whale* treffen sie auf August, einen zwielichtigen, aber überraschend hilfsbereiten Fremden. Er rät ihnen dringend, den Ort zu verlassen – und zwar sofort. Sie zögern nicht lange und versuchen, Greywater Row unauffällig zu verlassen.
