@@ -6,7 +6,7 @@ tags:
 ---
 Während [[Eve]] und Zhi Eve's Apartment suchen, macht sich Charlie daran, die Relentless zu entrümpeln.
 
-Zhi hat Schwierigkeiten, sich in Grimhaven zurechtzufinden, doch nach einem kleinen Umweg über den "Losen Schüpfer" landen sie im Anker. Dort erzählt Mo gerade die Geschichte der monströsen Ratte, die ihm sein Bein gekostet haben soll – natürlich mit einigen kreativen Ausschmückungen. Eve spricht kurz mit Charlie, der ihr versichert, dass sie zurückkehren kann, sobald es ihr besser geht.
+Zhi hat Schwierigkeiten, sich in Grimhaven zurechtzufinden, doch nach einem kleinen Umweg über den "Losen Schüpfer" landen sie im [[The Anker|Anker]]. Dort erzählt Mo gerade die Geschichte der monströsen Ratte, die ihm sein Bein gekostet haben soll – natürlich mit einigen kreativen Ausschmückungen. Eve spricht kurz mit Charlie, der ihr versichert, dass sie zurückkehren kann, sobald es ihr besser geht.
 
 In Eves Apartment findet sie ihr Journal und ein paar Wurfmesser. Sie beschließen, die Nacht dort zu verbringen.
 

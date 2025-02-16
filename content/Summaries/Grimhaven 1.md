@@ -4,7 +4,7 @@ draft: false
 tags:
   - summaries
 ---
-Nach ihrer Rückkehr nach Grimhaven sammeln sich die Spieler im *Broken Mast*.
+Nach ihrer Rückkehr nach Grimhaven sammeln sich die Spieler im [[The Broken Mast|Broken Mast]].
 
 Dort erfahren sie, dass Blake erhebliche Schulden beim Hafendirektor hat. Entschlossen, ihr zu helfen, nehmen sie sich vor, ausstehendes Geld von zwei Schuldnern einzutreiben.
 
