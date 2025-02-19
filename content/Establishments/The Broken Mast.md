@@ -3,7 +3,7 @@ title: The Broken Mast
 draft: false
 tags:
 ---
-Der Broken Mast ist mehr als nur eine Kneipe – er ist ein Zufluchtsort für die Gestrandeten und Gescheiterten Grimhaven's. Die alte, auf Grund gelaufene Galeone, die nun als heruntergekommene Spelunke dient, hat schon bessere Tage gesehen. Ihre Planken sind morsch, der Rumpf schief, und bei Sturm ächzt das Holz, als wolle das ganze Konstrukt endlich im Meer versinken. Doch solange er steht, finden hier all jene Unterschlupf, die sonst nirgends willkommen sind.
+Der Broken Mast ist mehr als nur eine Kneipe – er ist ein Zufluchtsort für die Gestrandeten und Gescheiterten [[Grimhaven|Grimhaven's]]. Die alte, auf Grund gelaufene Galeone, die nun als heruntergekommene Spelunke dient, hat schon bessere Tage gesehen. Ihre Planken sind morsch, der Rumpf schief, und bei Sturm ächzt das Holz, als wolle das ganze Konstrukt endlich im Meer versinken. Doch solange er steht, finden hier all jene Unterschlupf, die sonst nirgends willkommen sind.
 
 Die Atmosphäre ist rau, das Publikum zwielichtig. Seemänner ohne Schiff, Piraten ohne Beute, verlorene Seelen, die in Grimhaven gestrandet sind – sie alle teilen sich den schummrigen Raum, trinken billigen Schnaps und tauschen Geschichten über Orte, die keiner von ihnen je wiedersehen wird.
 
