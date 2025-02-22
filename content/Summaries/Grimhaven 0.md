@@ -1,5 +1,5 @@
 ---
-title: template
+title: "Grimaven #0"
 draft: false
 tags:
   - summaries
