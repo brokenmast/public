@@ -25,7 +25,7 @@ Dort erwartet sie die nächste Wendung ihres Schicksals. Blackwell hat Grimhaven
 
 Eve erhält einen Brief von Blackwell. Seine Worte sind rätselhaft, die Ränder des Papiers mit mysteriösen Symbolen verziert. Was bedeuten sie?
 
-Und dann ist da noch Charlie – ein weiterer Schiffbrüchiger, der nach dem Sturm angespült wurde. Genau wie Eve und Zhi scheint er nicht von dieser Welt zu sein.
+Und dann ist da noch [[Charlie]] – ein weiterer Schiffbrüchiger, der nach dem Sturm angespült wurde. Genau wie Eve und Zhi scheint er nicht von dieser Welt zu sein.
 
 So stehen sie nun zusammen auf dem Deck der *Relentless* – eine Schicksalsgemeinschaft von Fremden in einer fremden Stadt. Während Charlie schweigend an der Reling sitzt und in den Himmel blickt, in dem fremdartige Sterne funkeln, stellt sich die unausweichliche Frage:
 

@@ -1,12 +1,12 @@
 ---
-title: "Grimhaven #0"
+title: template
 draft: false
 tags:
   - summaries
 ---
-Zhi hetzt durch die verworrenen Korridore des Tempels. Die untergehende Sonne spiegelt sich auf den glatt polierten Steinen, abgetreten durch unzählige Schritte. Hinter ihm donnert das Echo der Palastwachen. Sie sind ihm dicht auf den Fersen – und er trägt etwas von unschätzbarem Wert.
+[[Zhi]] hetzt durch die verworrenen Korridore des Tempels. Die untergehende Sonne spiegelt sich auf den glatt polierten Steinen, abgetreten durch unzählige Schritte. Hinter ihm donnert das Echo der Palastwachen. Sie sind ihm dicht auf den Fersen – und er trägt etwas von unschätzbarem Wert. ^zhi
 
-Mo macht sich auf den Weg zum [[The Anker|Anker]], einer Hafenbar, um nach seiner kleinen Schwester Nadja zu sehen. Unterwegs fängt Spencer ihn ab. Er erzählt ihm von einem verrückten Kapitän, der den alten Schlepper The Relentless gekauft und zu einem Fischerboot umgebaut hat. Gemeinsam mit den Resten seiner Crew wagt er sich trotz des gefährlichen Nebels aufs Meer, um Blaukrabben und Lumpen-Aale zu fangen. Mo kann sein Glück kaum fassen und schafft es, zusammen mit Spencer als Aushilfe an Bord angeworben zu werden.
+Mo macht sich auf den Weg zum [[The Anker|Anker]], einer Hafenbar, um nach seiner kleinen Schwester Nadja zu sehen. Unterwegs fängt Spencer ihn ab. Er erzählt ihm von einem verrückten Kapitän, der den alten Schlepper The Relentless gekauft und zu einem Fischerboot umgebaut hat. Gemeinsam mit den Resten seiner Crew wagt er sich trotz des gefährlichen Nebels aufs Meer, um Blaukrabben und Lumpen-Aale zu fangen. Mo kann sein Glück kaum fassen und schafft es, zusammen mit Spencer als Aushilfe an Bord angeworben zu werden. ^b14f4e
 
 Trotz des rauen Wetters steht eine Gestalt unerschütterlich auf dem Deck. Mit knappen Worten gibt der Kapitän seinem ersten Offizier Murray die Befehle, die Relentless in See zu stechen.
 
@@ -26,7 +26,7 @@ Zhi fasst sich ein Herz, als die Wachen in Sichtweite auftauchen. Er nimmt Anlau
 
 Eve begibt sich in den Broken Mast und trifft auf Blake Redgrave, die Besitzerin. Bei einem Glas Westburn Bourbon erzählt Blake ihr, dass Blackwell sein Schiff, die Pilgrim, bei der Jagd auf den sagenumwobenen Leviathan Kirima verloren hat. Nach dem Schiffbruch verließ ein Großteil seiner Crew ihn. Plötzlich betritt Mr. Thorne die Kneipe und treibt im Namen des Hafendirektors Bellroy die Miete ein. Blake kann ihn nur vertrösten, doch Thorne droht damit, den Mast zu schließen.
 
-An Bord der Relentless improvisiert Mo eine Sprengharpune und trifft einen der Beulentaucher. Doch inmitten der Wellen entdecken die Männer eine treibende Gestalt – Zhi. Trotz der Gefahr springt Blackwell ins Meer und rettet ihn. Kurz darauf steuert Blackwell eine Öffnung im Nebel an, der sich wie eine lebendige Präsenz anfühlt.
+An Bord der Relentless improvisiert Mo eine Sprengharpune und trifft einen der [[Bestiarium Valoryae#Beulentaucher|Beulentaucher]]. Doch inmitten der Wellen entdecken die Männer eine treibende Gestalt – Zhi. Trotz der Gefahr springt Blackwell ins Meer und rettet ihn. Kurz darauf steuert Blackwell eine Öffnung im Nebel an, der sich wie eine lebendige Präsenz anfühlt.
 
 Die Relentless kehrt stark beschädigt in den Hafen zurück und sinkt neben dem Broken Mast auf Grund. Eve trifft die Mannschaft, und trotz des nervenaufreibenden Tages sind alle froh, sie zu sehen. Mo erhält seinen Lohn – zwei silberne Ketten – und Blackwell macht ihm ein Angebot, in seiner Crew zu bleiben. Doch zunächst kümmern sie sich um den Fremden. Zhi hat keine Ahnung, wo er sich befindet.
 

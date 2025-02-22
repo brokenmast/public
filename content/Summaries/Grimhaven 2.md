@@ -4,13 +4,13 @@ draft: false
 tags:
   - summaries
 ---
-Während [[Eve]] und Zhi Eve's Apartment suchen, macht sich Charlie daran, die Relentless zu entrümpeln.
+Während [[Eve]] und [[Zhi]] Eve's Apartment suchen, macht sich [[Charlie]] daran, die Relentless zu entrümpeln.
 
 Zhi hat Schwierigkeiten, sich in Grimhaven zurechtzufinden, doch nach einem kleinen Umweg über den "Losen Schüpfer" landen sie im [[The Anker|Anker]]. Dort erzählt Mo gerade die Geschichte der monströsen Ratte, die ihm sein Bein gekostet haben soll – natürlich mit einigen kreativen Ausschmückungen. Eve spricht kurz mit Charlie, der ihr versichert, dass sie zurückkehren kann, sobald es ihr besser geht.
 
 In Eves Apartment findet sie ihr Journal und ein paar Wurfmesser. Sie beschließen, die Nacht dort zu verbringen.
 
-Am nächsten Morgen begeben sie sich nach Lowharbour. Am Broken Mast herrscht Tumult: Eine fette Albino-Ratte hat sich dort verschanzt, und Turak und Yago sind ausgerechnet heute nicht da. Eve greift sich mit Hilfe von Zhis Amulett das Tier und trägt es unter Applaus nach draußen.
+Am nächsten Morgen begeben sie sich nach Lowharbour. Am Broken Mast herrscht Tumult: Eine fette [[Bestiarium Valoryae#Küstenratten|Albino-Ratte]] hat sich dort verschanzt, und Turak und Yago sind ausgerechnet heute nicht da. Eve greift sich mit Hilfe von Zhis Amulett das Tier und trägt es unter Applaus nach draußen.
 
 Auf der Relentless bestaunen sie Charlies Fortschritte beim Aufräumen. Er sieht zerknittert aus, doch das ist nichts Neues. Mit fragwürdigem Kaffee versucht er, die Nacht auf dem Boot zu verdauen.
 

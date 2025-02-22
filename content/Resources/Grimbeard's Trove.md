@@ -1,5 +1,5 @@
 ---
-title: Grimbeard's Trove
+title: block link
 draft: false
 tags:
   - resources

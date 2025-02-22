@@ -9,4 +9,5 @@ Die Atmosphäre ist rau, das Publikum zwielichtig. Seemänner ohne Schiff, Pirat
 
 Turak und Yago sorgen für Ordnung, soweit es nötig ist. Wer zu tief ins Glas schaut und auf dumme Ideen kommt, wird schnell wieder auf den Boden der Tatsachen zurückgebracht – notfalls mit den Fäusten. Streitigkeiten sind erlaubt, solange sie unterhaltsam bleiben und das Schiff nicht in Brand gesetzt wird.
 
-Doch so düster Lowharbour auch ist, der Broken Mast strahlt inmitten des Schmutzes und Nebels ein unerwartetes Licht aus. Blake Redgrave, der ihn mit fester Hand führt, hat aus der rauen Spelunke eine Zuflucht gemacht – einen Ort, an dem sich die Verlorenen Grimhavens für einen Moment erinnern können, dass es mehr gibt als Dunkelheit. Wer hier einkehrt, weiß: Solange der Mast steht, gibt es noch einen Ort, an dem man nicht vergessen wird.
+Doch so düster [[Lowharbour]] auch ist, der Broken Mast strahlt inmitten des Schmutzes und Nebels ein unerwartetes Licht aus. Blake Redgrave, der ihn mit fester Hand führt, hat aus der rauen Spelunke eine Zuflucht gemacht – einen Ort, an dem sich die Verlorenen Grimhavens für einen Moment erinnern können, dass es mehr gibt als Dunkelheit. Wer hier einkehrt, weiß: Solange der Mast steht, gibt es noch einen Ort, an dem man nicht vergessen wird.
+

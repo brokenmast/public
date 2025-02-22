@@ -3,7 +3,7 @@ title: The Anker
 draft: false
 tags:
 ---
-Der Anker ist eine der ältesten und berüchtigsten Hafenkneipen in [[Grimhaven]]. Zwischen dicken Holzbalken und russgeschwärzten Öllampen treffen sich hier Seeleute, Dockarbeiter, Schmuggler und all jene, die nach einem langen Tag einen harten Drink und noch härtere Geschichten brauchen.
+Der Anker im [[Hafenviertel]] ist eine der ältesten und berüchtigsten Hafenkneipen in [[Grimhaven]]. Zwischen dicken Holzbalken und russgeschwärzten Öllampen treffen sich hier Seeleute, Dockarbeiter, Schmuggler und all jene, die nach einem langen Tag einen harten Drink und noch härtere Geschichten brauchen.
 
 Der Boden ist klebrig, die Luft schwer von Rauch und Salz, und der Geruch von billigem Rum mischt sich mit dem Duft von Hafenfisch und verschüttetem Bier. Streitigkeiten sind an der Tagesordnung, doch echte Probleme bleiben meist vor der Tür – nicht zuletzt dank Charlie, dem Barkeeper, der mit ruhiger Hand und einem scharfen Blick den Laden zusammenhält.
 

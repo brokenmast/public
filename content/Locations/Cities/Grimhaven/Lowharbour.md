@@ -2,8 +2,10 @@
 title: Lowharbour
 draft: false
 tags:
+  - district
+  - grimhaven
 ---
-A district of [[Grimhaven]].
+Ein Stadtteil von [[Grimhaven|Grimhaven]].
 
  Ein Ort für die Vergessenen, die Gestrandeten, die, die nirgends sonst mehr hin können. Der Nebel verschlingt die Schwachen, das Meer spuckt nur Albträume aus.
 
