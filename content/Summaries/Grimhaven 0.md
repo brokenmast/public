@@ -1,5 +1,5 @@
 ---
-title: "Grimaven #0"
+title: "Grimhaven #0"
 draft: false
 tags:
   - summaries

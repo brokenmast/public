@@ -7,4 +7,4 @@ tags:
 ---
 Ein besonders gefährlicher Teil der [[Unterstadt]] [[Grimhaven|Grimhavens]].
 
-Hier befindet sich die legendäre Kneipe *[[The Whale]]*, die als Hauptquartier der [[Rustfangs]] bekannt ist.
+Hier befindet sich die legendäre Kneipe [[The Whale]], die als Hauptquartier der [[Rustfangs]] bekannt ist.
