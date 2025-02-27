@@ -1,12 +1,11 @@
 ---
-title: Welcome!
+title: Welcome to Grimhaven
 draft: false
 tags:
 ---
 Hey, Fremder!
 
-![[index 2025-02-26 18.12.23.excalidraw.png]]
-
-Wie hat es dich nach [[Grimhaven]] verschlagen?
+Wie hat es dich nach [[Lowharbour]] verschlagen?
 
 Vielleicht findest du ja was nützliches in [[Grimbeard's Trove]].
+
